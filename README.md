@@ -1,7 +1,7 @@
 # defi-mooc <br/>
 This repo consists of DeFi MOOC materials <br/>
 Link: [DeFi MOOC](https://defi-learning.org/) <br/>
-Youtube playlist for Fall 2021: [Whole Youtube Link](https://www.youtube.com/playlist?list=PLS01nW3RtgopJOtsMVOK3N7n7qyNMPbJ_) <br/>
+Youtube playlist for Fall 2021: [Youtube Link](https://www.youtube.com/playlist?list=PLS01nW3RtgopJOtsMVOK3N7n7qyNMPbJ_) <br/>
 
 |Lecture | Youtube Links | Notes/ PDF|
 |:---|:---:|:---|
